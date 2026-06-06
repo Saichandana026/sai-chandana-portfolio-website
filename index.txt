@@ -2,234 +2,105 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Sai Chandana
+MCA Graduate | Full Stack Developer
 
-Show Contacts
-
-Email
-richard@example.com
-
-Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
-
-Location
-Sacramento, California, USA
 
 # navbar
 
 About
 Resume
-Portfolio
-Blog
+Projects
 Contact
 
 # about
 
-About me
+About Me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I am a passionate MCA graduate with a strong interest in Full Stack Web Development, Software Engineering, and Artificial Intelligence. I enjoy building scalable web applications and solving real-world problems through technology.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+My experience includes developing full-stack applications using the MERN Stack, implementing secure authentication systems, designing responsive user interfaces, and working with machine learning and NLP-based projects. I am continuously learning new technologies and seeking opportunities to contribute to innovative software development teams.
 
+What I'm Doing
+Full Stack Development
 
-## service
+Building modern web applications using React.js, Node.js, Express.js, and MongoDB.
 
-What i'm doing
+Frontend Development
 
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+Creating responsive and user-friendly interfaces using HTML, CSS, JavaScript, and React.
 
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Backend Development
 
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+Developing RESTful APIs, authentication systems, and database-driven applications.
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+Software Development
 
-
-## testimonials
-
-Testimonials
-
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-
-## clients
-
-Clients
-
-alt = client logo
-
-
-
-# resume
+Designing and implementing scalable software solutions with clean and maintainable code.
 
 Resume
-
 Education
+Master of Computer Applications (MCA)
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+St Joseph Engineering College, Mangaluru
+2024 – 2026
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+Bachelor Degree
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+Completed undergraduate studies with a strong foundation in computer science and programming.
 
-Experience
+Internship Experience
+Software Developer Intern – Dregal
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+2025
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Developed and enhanced full-stack web application features.
+Implemented secure JWT-based authentication and authorization.
+Built responsive user interfaces using React.js.
+Integrated REST APIs and backend services.
+Collaborated with development teams using Git and GitHub.
+Technical Skills
+Programming Languages
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Python, JavaScript, Java, SQL
 
-My skills
+Frontend
 
-Web design
-80%
-Graphic design
-70%
-Branding
-90%
-WordPress
-50%
+HTML5, CSS3, JavaScript, React.js
 
+Backend
 
+Node.js, Express.js, REST APIs
 
-# portfolio
+Database
 
-Portfolio
+MongoDB, MySQL
 
-All
-Web design
-Applications
-Web development
+Tools & Technologies
 
-Select category
-All
-Web design
-Applications
-Web development
+Git, GitHub, VS Code, Postman, JWT Authentication
 
-alt = finance
-Finance
-Web development
+Projects
+Skincare E-Commerce Platform
 
-alt = orizon
-Orizon
-Web development
+Full-stack e-commerce platform with JWT authentication, product management, shopping cart, image uploads using Cloudinary, and secure order processing.
 
-alt = fundo
-Fundo
-Web design
+Language Translator for Hearing-Impaired
 
-alt = brawlhalla
-Brawlhalla
-Applications
+Python-based NLP system that converts spoken audio into sign-language representations using Google Speech-to-Text and Natural Language Processing techniques.
 
-alt = dsm.
-DSM.
-Web design
+CakeNest – Online Cake Ordering System
 
-alt = metaspark
-MetaSpark
-Web design
+Web application enabling users to browse, customize, and place cake orders online with responsive user experience.
 
-alt = summary
-Summary
-Web development
+Student Feedback Management System
 
-alt = task manager
-Task Manager
-Applications
-
-alt = arrival
-Arrival
-Web development
-
-
-
-# blog
-
-Blog
-
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
-
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
-
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
-
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
-
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
-
-
-
-# contact
+Platform for collecting and analyzing student feedback with secure login and reporting functionality.
 
 Contact
+
+I am actively seeking Software Developer and Full Stack Developer opportunities where I can contribute my technical skills, collaborate with innovative teams, and continue growing as a software professional.
+
 
 Contact Form
 
